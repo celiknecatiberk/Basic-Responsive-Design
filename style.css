@@ -35,7 +35,7 @@ img{
     clear: both;
 
 }
-/* Header */
+
  header{
      height: 45rem;    
  } 
@@ -72,14 +72,14 @@ color: #333;
 opacity: 0.8;
 }
 
-/* Section-a */
+
 #section-a{
     background-color: #eaeaea;
     color:#333;
     padding: 3.2rem 0em;
 }
 
-/* Section-b */
+
 #section-b{
     padding: 2rem;
 }
@@ -94,7 +94,7 @@ opacity: 0.8;
     margin-bottom: 3.5rem;
 }
 
-/* Section-c */
+
 #section-c {
     background: #eaeaea;
     color: #333;
@@ -102,7 +102,7 @@ opacity: 0.8;
 }
 
 
-/* Section-d */
+
 #section-d .box{
     padding: 5rem;
 }
@@ -111,7 +111,7 @@ opacity: 0.8;
     background-color: #2690d4;
 }
 
-/* footer */
+
 
 footer{
     padding: 4rem;
